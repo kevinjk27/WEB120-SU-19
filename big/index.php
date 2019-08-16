@@ -1,7 +1,6 @@
 <?php include 'includes/header.php'?>
 
-<h4>Please kindly fill up this form so we know what is your goal</h4>
-<h4>It will take less than 3 minutes to complete</h4>
+
 
 <?php
 include 'includes/simple.php'; #demonstrates a simple contact form
@@ -14,8 +13,8 @@ include 'includes/simple.php'; #demonstrates a simple contact form
 
 <!-- START RIGHT COL -->
 <aside>
-<h3>Right Column</h3>
-<p>Some advisable quote here</p>
+<h3>Please kindly fill up this form so we know what is your goal</h3>
+<h4>It will take less than 3 minutes to complete</h4>
  
 </aside>
 <!-- END RIGHT COL -->

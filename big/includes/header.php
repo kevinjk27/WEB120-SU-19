@@ -39,7 +39,7 @@
            <li><a href="../big/research4.php"><span><i class="fas fa-shopping-cart"></i>Shopping Cart</span></a></li>
         </ul>
      </li>
-     <li><a href="webcam.php"><span><i class="fa fa-fw fa-eye"></i> Webcam </span></a></li>
+     <li><a href="media.php"><span><i class="fas fa-compact-disc"></i> Media </span></a></li>
     <li><a href="../big/findus.php"><span><i class="fas fa-map-marked-alt"></i> Find Us</span></a></li>
     <li><a href="../index.php"><span><i class="fas fa-laptop-code"></i> Kevin's Portal Page</span></a></li>   
   </ul>

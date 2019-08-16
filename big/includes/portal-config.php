@@ -57,29 +57,29 @@ switch(THIS_PAGE){
     break;
 
     case 'calendar.php':
-        $title = "BIG - calendar";
+        $title = "BIG - Calendar";
         $logo = 'fas fa-calendar-day';
         $PageID = 'BIG Calendar Page';
         $class = 'calendar';
     break;
         
     case 'findus.php':
-        $title = "Find Us";
+        $title = "BIG - Find Us";
         $logo = 'fas fa-map-marked-alt';
-        $PageID = 'BIG Find Us';
+        $PageID = 'Find Us Here';
         $class = 'findus';
     break;
 
-    case 'webcam.php':
-        $title = "WebCam";
-        $logo = 'fas fa-eye';
-        $PageID = 'BIG WebCam';
-        $class = 'findus';
+    case 'media.php':
+        $title = "BIG - Media";
+        $logo = 'fas fa-compact-disc';
+        $PageID = 'Multimedia to enhance website';
+        $class = 'media';
     break;
         
     default:
         $title = THIS_PAGE;
-        $logo = '';//no icon by default
+        $logo = 'fas fa-jedi';//no icon by default
         $PageID = 'Welcome';
         $class = 'default';
 

@@ -272,3 +272,7 @@ div.research-heading p{
 .research-content ol{
     margin-left: -1.5em;
 }
+
+li.procon {
+    margin-left: 1em
+}

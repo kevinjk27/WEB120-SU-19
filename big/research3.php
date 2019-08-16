@@ -265,8 +265,8 @@ The other option is to use fallback that will be easier to implement.    <a href
 
 <!-- START RIGHT COL -->
 <aside>
-<h3>Right Column</h3>
-<p>Some advisable quote here</p>
+<h3>Resourceful video</h3>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/JJSoEo8JSnc' frameborder='0' allowfullscreen></iframe></div>
  
 </aside>
 <!-- END RIGHT COL -->

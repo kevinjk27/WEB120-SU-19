@@ -405,16 +405,23 @@ Lennartz, Sven. “30 Scripts For Galleries, Slideshows and Lightboxes.”    <e
     images more valuable and simplify the browsing through hundreds of slides.
 </p>
     </div>
-
+http://www.thepetedesign.com/demos/shuffle-images_demo.html
 
 </section>
 <!-- END LEFT COL -->
 
 <!-- START RIGHT COL -->
 <aside>
-<h3>Right Column</h3>
-<p>Some advisable quote here</p>
+<h3>Kevin's Favourite Galleries</h3>
  
+    
+<ul>
+    <a href="https://lokeshdhakar.com/projects/lightbox2/"><li class="procon">Lightbox</li></a>
+    <a href="http://www.thepetedesign.com/demos/shuffle-images_demo.html"><li class="procon">Shuffle Image</li></a>
+    <a href="https://www.frescojs.com/"><li class="procon">Fresco</li></a>
+    
+    </ul>
+    
 </aside>
 <!-- END RIGHT COL -->
 

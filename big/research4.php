@@ -284,16 +284,16 @@ We can use    <a href="https://www.google.com/adsense/start/">Google Adsense</a>
 </p>
 </div>
 
-
-
 </section>
 <!-- END LEFT COL -->
 
 <!-- START RIGHT COL -->
-<aside>
-<h3>Right Column</h3>
-<p>Some advisable quote here</p>
- 
+<aside class.web>
+<h2>Turn Your Website into a Money-Maker</h2>
+<p>Creating a shopping cart is essentially the way to create revenue. What are the unsought ways to make it more attractive and profitable?</p>
+    <div class='embed-container'>
+    <iframe src="https://www.youtube.com/embed/BRUhJvaW-gE" frameborder='0' allowfullscreen></iframe>
+    </div>
 </aside>
 <!-- END RIGHT COL -->
 

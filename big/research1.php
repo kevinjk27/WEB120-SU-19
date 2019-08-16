@@ -187,9 +187,30 @@ Chris Ciligot.    <em>Mobile App Vs. Mobile Website: Which Is The Better Option?
 
 <!-- START RIGHT COL -->
 <aside>
-<h3>Right Column</h3>
-<p>Some advisable quote here</p>
- 
+<h3>Responsive Website </h3>
+<ul><strong>Pros :</strong>
+    <li class="procon">Easy to build</li>
+    <li class="procon">Low setup cost</li>
+    <li class="procon">Based on HTML, CSS and JavaScript</li>
+</ul>
+<ul><strong>Cons :</strong>
+    <li class="procon">Only available online</li>
+    <li class="procon">Features are limited</li>
+    </ul>
+    
+<h3>Mobile Apps </h3>
+<ul><strong>Pros :</strong>
+    <li class="procon">Better performance</li>
+    <li class="procon">Offers much more features</li>
+    <li class="procon">Enhance security</li>
+    </ul>
+    
+    
+    <ul><strong>Cons :</strong>
+    <li class="procon">Uses different languages</li>
+    <li class="procon">Costly to build</li>
+    <li class="procon">File need to be downloaded first</li>
+    </ul>
 </aside>
 <!-- END RIGHT COL -->
 
